@@ -1,2 +1,0 @@
-(this["webpackJsonpdisny-clone"]=this["webpackJsonpdisny-clone"]||[]).push([[0],{9:function(e,n,t){"use strict";t.r(n);var c=t(0),s=t.n(c),r=t(3),d=t.n(r),i=t(1);var o=function(){return Object(i.jsx)("div",{className:"App",children:"dad"})};d.a.render(Object(i.jsx)(s.a.StrictMode,{children:Object(i.jsx)(o,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.45a610fa.chunk.js.map
